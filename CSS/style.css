@@ -1,5 +1,5 @@
 * {
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, sans-serif; 
 }
 
 html {
@@ -10,10 +10,15 @@ main {
   margin-top: 67px;
 }
 
+.texto-filme{
+  font-size: 50px;
+  font-weight: bold;
+}
+
 .parallax {
   position: relative;
   background-image: url("../img/background.png");
-  min-height: 500px;
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,8 +27,8 @@ main {
 
 .parallaxVingadores {
   position: relative;
-  background-image: url("../img/vingadores.png");
-  min-height: 500px;
+  background-image: url("../img/vingadores1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -32,8 +37,8 @@ main {
 
 .parallaxCoringa {
   position: relative;
-  background-image: url("../img/coringa.png");
-  min-height: 500px;
+  background-image: url("../img/coringa1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -42,8 +47,8 @@ main {
 
 .parallaxDuna {
   position: relative;
-  background-image: url("../img/duna.png");
-  min-height: 500px;
+  background-image: url("../img/duna1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -52,8 +57,8 @@ main {
 
 .parallaxJurassic {
   position: relative;
-  background-image: url("../img/jurassic.png");
-  min-height: 500px;
+  background-image: url("../img/jurassic1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -62,8 +67,8 @@ main {
 
 .parallaxSonic {
   position: relative;
-  background-image: url("../img/sonic.png");
-  min-height: 500px;
+  background-image: url("../img/sonic1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -72,8 +77,8 @@ main {
 
 .parallaxVenom {
   position: relative;
-  background-image: url("../img/venom.png");
-  min-height: 500px;
+  background-image: url("../img/venom1.jpg");
+  min-height: 720px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
